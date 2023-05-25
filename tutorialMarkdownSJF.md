@@ -28,7 +28,7 @@ convertirlo en HTML válido. Fue creado por John Gruber y Aaron Swartz en 2004 c
 \
 \
 \
-## 1.1 Etiquetas básicas de Markdown**
+## 1.1 Etiquetas básicas de Markdown
 
 
 ### 1.1.1 Encabezados.
@@ -36,7 +36,7 @@ convertirlo en HTML válido. Fue creado por John Gruber y Aaron Swartz en 2004 c
 
 Los encabezados en Markdown se crean utilizando el símbolo de numeral (#) seguido de un espacio y el texto del encabezado. El número de numerales indica el nivel de jerarquía del encabezado, siendo un numeral para el encabezado de nivel 1, dos numerales para el encabezado de nivel 2, y así sucesivamente hasta seis niveles.
 
-**Ejemplo:
+**Ejemplo:**
 
 ```
 # Encabezado de nivel 1
@@ -48,7 +48,7 @@ Los encabezados en Markdown se crean utilizando el símbolo de numeral (#) segui
 
 Para aplicar formato de negrita a una palabra o frase, se deben utilizar dos asteriscos o dos guiones bajos antes y después del texto. Para aplicar formato de cursiva, se deben utilizar un asterisco o un guión bajo antes y después del texto.
 
-Ejemplo:
+**Ejemplo:**
 
 ```
 **Texto en negrita**
@@ -59,7 +59,7 @@ _Texto en cursiva_
 
 Para resaltar un comando en Markdown, se puede utilizar el acento grave (`) alrededor del comando.
 
-Ejemplo:
+**Ejemplo:**
 
 ```
 `comando`
@@ -69,7 +69,7 @@ Ejemplo:
 
 Para mostrar un bloque de código en Markdown, se deben utilizar tres acentos graves (`) antes y después del bloque de código.
 
-Ejemplo:
+**Ejemplo:**
 
 \```
 bloque de código
@@ -83,17 +83,20 @@ Para insertar una imagen en Markdown, se utiliza la siguiente sintaxis:
 ![Texto alternativo](URL de la imagen)
 ```
 
-Ejemplo:
+**Ejemplo:**
 
 ```
 ![Logo de IES Doñana](https://pro.iesdonana.org/assets/logo.png)
 ```
+**Ejemplo en funcionamiento:**  
+
+![Logo de IES Doñana](https://pro.iesdonana.org/assets/logo.png)
 
 ### 1.1.6 Listas desordenadas anidadas.
 
 Las listas desordenadas anidadas se crean utilizando cuatro espacios de indentación antes del guion (-) o asterisco (*) que inicia cada ítem de la lista.
 
-Ejemplo:
+**Ejemplo:**
 
 ```
 - Item 1
@@ -107,7 +110,7 @@ Ejemplo:
 
 Las listas ordenadas anidadas se crean utilizando cuatro espacios de indentación antes del número seguido de un punto (1., 2., 3., etc.) que inicia cada ítem de la lista.
 
-Ejemplo:
+**Ejemplo:**
 
 ```
 1. Item 1
@@ -121,7 +124,7 @@ Ejemplo:
 
 En Markdown, se pueden agregar comentarios utilizando la sintaxis `<!-- Comentario -->`. Estos comentarios no se mostrarán en la visualización del archivo final.
 
-Ejemplo:
+**Ejemplo:**
 
 ```
 <!-- Este es un comentario en Markdown -->
@@ -133,11 +136,15 @@ Para escribir ecuaciones matemáticas en Markdown, se utiliza la sintaxis
 
  de LaTeX. Las ecuaciones se encierran entre dos signos de dólar ($).
 
-Ejemplo:
+**Ejemplo:**
 
 ```
 $E = mc^2$
 ```
+**Ejemplo en funcionamiento:**  
+
+$E = mc^2$  
+
 
 ## 2. Referencias.
 
