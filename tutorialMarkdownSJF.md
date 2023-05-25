@@ -1,5 +1,9 @@
 # INDICE
 
+![Logo Markdown](/imagenes/logo.png)
+\
+\
+\
 ## 1. ¿Qué es Markdown?
 ## 1.1 Etiquetas básicas de Markdown
 ### 1.1.1 Encabezados.
@@ -12,9 +16,9 @@
 ### 1.1.8 Comentarios.
 ### 1.1.9 Ecuaciones matemáticas.
 ## 2. Referencias.
-
-![Logo Markdown](/imagenes/logo.png)
-
+\
+\
+\
 ---
 
 # Taller de introducción a Markdown
