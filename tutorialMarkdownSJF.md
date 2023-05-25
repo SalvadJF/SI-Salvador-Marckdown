@@ -20,16 +20,15 @@
 
 ## 1. ¿Qué es Markdown?  
 
-Markdown es un lenguaje de marcado ligero que permite escribir texto con formato fácilmente legible y convertirlo en HTML válido. Fue creado por John Gruber y Aaron Swartz en 2004 con el objetivo de ser fácil de leer y escribir.  
+**Markdown** es un _lenguaje de marcado ligero_ que permite escribir texto con formato fácilmente legible y convertirlo en HTML válido. Fue creado por **John Gruber** y **Aaron Swartz** en 2004 con el objetivo de ser fácil de leer y escribir.  
 
 ## 1.1 Etiquetas básicas de Markdown  
 
 
 ### 1.1.1 Encabezados.
 
-
-Los encabezados en Markdown se crean utilizando el símbolo de numeral (#) seguido de un espacio y el texto del encabezado.  
-El número de numerales indica el nivel de jerarquía del encabezado, siendo un numeral para el encabezado de nivel 1, dos numerales para el encabezado de nivel 2, y así sucesivamente hasta seis niveles.
+Los _encabezados_ en **Markdown** se crean utilizando el _símbolo de numeral (#)_ seguido de un espacio y el texto del encabezado.  
+El número de numerales indica el nivel de **jerarquía** del encabezado, siendo un numeral para el encabezado de nivel 1, dos numerales para el encabezado de nivel 2, y así sucesivamente hasta seis niveles.
 
 **Ejemplo:**
 
@@ -41,8 +40,8 @@ El número de numerales indica el nivel de jerarquía del encabezado, siendo un 
 
 ### 1.1.2 Negrita y cursiva.
 
-Para aplicar formato de negrita a una palabra o frase, se deben utilizar dos asteriscos o dos guiones bajos antes y después del texto.  
-Para aplicar formato de cursiva, se deben utilizar un asterisco o un guión bajo antes y después del texto.
+Para aplicar formato de **negrita** a una palabra o frase, se deben utilizar dos asteriscos (*) o dos guiones bajos (_) antes y después del texto.  
+Para aplicar formato de _cursiva_ se deben utilizar un asterisco o un guión bajo antes y después del texto.
 
 **Ejemplo:**
 
@@ -53,7 +52,7 @@ _Texto en cursiva_
 
 ### 1.1.3 Resaltar un comando.
 
-Para resaltar un comando en Markdown, se puede utilizar el acento grave (`) alrededor del comando.
+Para _resaltar_ un comando en **Markdown**, se puede utilizar el **acento grave (`)** alrededor del comando.
 
 **Ejemplo:**
 
@@ -63,7 +62,7 @@ Para resaltar un comando en Markdown, se puede utilizar el acento grave (`) alre
 
 ### 1.1.4 Bloque de código.
 
-Para mostrar un bloque de código en Markdown, se deben utilizar tres acentos graves (`) antes y después del bloque de código.
+Para mostrar un _bloque_ de código en **Markdown**, se deben utilizar **tres acentos graves (`)** antes y después del bloque de código.
 
 **Ejemplo:**
 
@@ -73,7 +72,7 @@ bloque de código
 
 ### 1.1.5 Imágenes.
 
-Para insertar una imagen en Markdown, se utiliza la siguiente sintaxis:
+Para insertar una _imagen_ en **Markdown**, se utiliza la siguiente sintaxis:
 
 ```
 ![Texto alternativo](URL de la imagen)
@@ -90,7 +89,7 @@ Para insertar una imagen en Markdown, se utiliza la siguiente sintaxis:
 
 ### 1.1.6 Listas desordenadas anidadas.
 
-Las listas desordenadas anidadas se crean utilizando cuatro espacios de indentación antes del guion (-) o asterisco (*) que inicia cada ítem de la lista.
+Las _listas desordenadas_ anidadas se crean utilizando **cuatro espacios de indentación antes del guion (-) o asterisco (*)** que inicia cada ítem de la lista.
 
 **Ejemplo:**
 
@@ -104,7 +103,7 @@ Las listas desordenadas anidadas se crean utilizando cuatro espacios de indentac
 
 ### 1.1.7 Listas ordenadas anidadas.
 
-Las listas ordenadas anidadas se crean utilizando cuatro espacios de indentación antes del número seguido de un punto (1., 2., 3., etc.) que inicia cada ítem de la lista.
+Las _listas ordenadas anidadas_ se crean utilizando **cuatro espacios de indentación antes del número seguido de un punto (1., 2., 3., etc.)** que inicia cada ítem de la lista.
 
 **Ejemplo:**
 
@@ -118,8 +117,8 @@ Las listas ordenadas anidadas se crean utilizando cuatro espacios de indentació
 
 ### 1.1.8 Comentarios.
 
-En Markdown, se pueden agregar comentarios utilizando la sintaxis `<!-- Comentario -->`.  
-Estos comentarios no se mostrarán en la visualización del archivo final.
+En **Markdown**, se pueden agregar _comentarios_ utilizando la sintaxis **`<!-- Comentario -->`**.  
+Estos comentarios **no se mostrarán** en la visualización del archivo final.
 
 **Ejemplo:**
 
@@ -129,8 +128,8 @@ Estos comentarios no se mostrarán en la visualización del archivo final.
 
 ### 1.1.9 Ecuaciones matemáticas.
 
-Para escribir ecuaciones matemáticas en Markdown, se utiliza la sintaxis de LaTeX.  
-Las ecuaciones se encierran entre dos signos de dólar ($).
+Para escribir _ecuaciones matemáticas_ en **Markdown** se utiliza la sintaxis de LaTeX.  
+Las ecuaciones **se encierran entre dos signos de dólar ($)**.
 
 **Ejemplo:**
 
