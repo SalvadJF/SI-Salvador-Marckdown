@@ -24,10 +24,10 @@
 \
 \
 Markdown es un lenguaje de marcado ligero que permite escribir texto con formato fácilmente legible y
-convertirlo en HTML válido. Fue creado por John Gruber y Aaron Swartz en 2004 con el objetivo de ser fácil de leer y escribir.
-\
-\
-\
+convertirlo en HTML válido. Fue creado por John Gruber y Aaron Swartz en 2004 con el objetivo de ser fácil de leer y escribir.  
+
+
+
 ## 1.1 Etiquetas básicas de Markdown
 
 
