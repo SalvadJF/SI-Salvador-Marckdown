@@ -13,8 +13,6 @@
 ### 1.1.9 Ecuaciones matemáticas.
 ## 2. Referencias.
 
-\
-\
 ![Logo Markdown](/imagenes/logo.png)
 
 ---
