@@ -25,10 +25,10 @@
 \
 Markdown es un lenguaje de marcado ligero que permite escribir texto con formato fácilmente legible y
 convertirlo en HTML válido. Fue creado por John Gruber y Aaron Swartz en 2004 con el objetivo de ser fácil de leer y escribir.  
-<!--\-->
 \
 \
-## 1.1 Etiquetas básicas de Markdown
+\
+## 1.1 Etiquetas básicas de Markdown**
 
 
 ### 1.1.1 Encabezados.
@@ -36,7 +36,7 @@ convertirlo en HTML válido. Fue creado por John Gruber y Aaron Swartz en 2004 c
 
 Los encabezados en Markdown se crean utilizando el símbolo de numeral (#) seguido de un espacio y el texto del encabezado. El número de numerales indica el nivel de jerarquía del encabezado, siendo un numeral para el encabezado de nivel 1, dos numerales para el encabezado de nivel 2, y así sucesivamente hasta seis niveles.
 
-Ejemplo:
+**Ejemplo:
 
 ```
 # Encabezado de nivel 1
