@@ -16,9 +16,6 @@
 ### 1.1.8 Comentarios.
 ### 1.1.9 Ecuaciones matemáticas.
 ## 2. Referencias.
-\
-\
-\
 ---
 
 # Taller de introducción a Markdown
