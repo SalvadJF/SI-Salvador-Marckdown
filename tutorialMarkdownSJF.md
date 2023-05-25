@@ -40,8 +40,8 @@ El número de numerales indica el nivel de **jerarquía** del encabezado, siendo
 
 ### 1.1.2 Negrita y cursiva.
 
-Para aplicar formato de **negrita** a una palabra o frase, se deben utilizar dos asteriscos (*) o dos guiones bajos (_) antes y después del texto.  
-Para aplicar formato de _cursiva_ se deben utilizar un asterisco o un guión bajo antes y después del texto.
+Para aplicar formato de **negrita** a una palabra o frase **se deben utilizar dos asteriscos (*) o dos guiones bajos (_) antes y después del texto**.  
+Para aplicar formato de _cursiva_ **se deben utilizar un asterisco (*) o un guión bajo antes (_) y después del texto**.
 
 **Ejemplo:**
 
