@@ -20,10 +20,7 @@
 
 ## 1. ¿Qué es Markdown?  
 
-Markdown es un lenguaje de marcado ligero que permite escribir texto con formato fácilmente legible y
-convertirlo en HTML válido. Fue creado por John Gruber y Aaron Swartz en 2004 con el objetivo de ser fácil de leer y escribir.  
-
-
+Markdown es un lenguaje de marcado ligero que permite escribir texto con formato fácilmente legible y convertirlo en HTML válido. Fue creado por John Gruber y Aaron Swartz en 2004 con el objetivo de ser fácil de leer y escribir.  
 
 ## 1.1 Etiquetas básicas de Markdown  
 
@@ -31,7 +28,8 @@ convertirlo en HTML válido. Fue creado por John Gruber y Aaron Swartz en 2004 c
 ### 1.1.1 Encabezados.
 
 
-Los encabezados en Markdown se crean utilizando el símbolo de numeral (#) seguido de un espacio y el texto del encabezado. El número de numerales indica el nivel de jerarquía del encabezado, siendo un numeral para el encabezado de nivel 1, dos numerales para el encabezado de nivel 2, y así sucesivamente hasta seis niveles.
+Los encabezados en Markdown se crean utilizando el símbolo de numeral (#) seguido de un espacio y el texto del encabezado.  
+El número de numerales indica el nivel de jerarquía del encabezado, siendo un numeral para el encabezado de nivel 1, dos numerales para el encabezado de nivel 2, y así sucesivamente hasta seis niveles.
 
 **Ejemplo:**
 
@@ -43,7 +41,8 @@ Los encabezados en Markdown se crean utilizando el símbolo de numeral (#) segui
 
 ### 1.1.2 Negrita y cursiva.
 
-Para aplicar formato de negrita a una palabra o frase, se deben utilizar dos asteriscos o dos guiones bajos antes y después del texto. Para aplicar formato de cursiva, se deben utilizar un asterisco o un guión bajo antes y después del texto.
+Para aplicar formato de negrita a una palabra o frase, se deben utilizar dos asteriscos o dos guiones bajos antes y después del texto.  
+Para aplicar formato de cursiva, se deben utilizar un asterisco o un guión bajo antes y después del texto.
 
 **Ejemplo:**
 
@@ -119,7 +118,8 @@ Las listas ordenadas anidadas se crean utilizando cuatro espacios de indentació
 
 ### 1.1.8 Comentarios.
 
-En Markdown, se pueden agregar comentarios utilizando la sintaxis `<!-- Comentario -->`. Estos comentarios no se mostrarán en la visualización del archivo final.
+En Markdown, se pueden agregar comentarios utilizando la sintaxis `<!-- Comentario -->`.  
+Estos comentarios no se mostrarán en la visualización del archivo final.
 
 **Ejemplo:**
 
@@ -129,9 +129,8 @@ En Markdown, se pueden agregar comentarios utilizando la sintaxis `<!-- Comentar
 
 ### 1.1.9 Ecuaciones matemáticas.
 
-Para escribir ecuaciones matemáticas en Markdown, se utiliza la sintaxis
-
- de LaTeX. Las ecuaciones se encierran entre dos signos de dólar ($).
+Para escribir ecuaciones matemáticas en Markdown, se utiliza la sintaxis de LaTeX.  
+Las ecuaciones se encierran entre dos signos de dólar ($).
 
 **Ejemplo:**
 
@@ -146,3 +145,4 @@ $E = mc^2$
 ## 2. Referencias.
 
 - Tutorial en Español: [Enlace al tutorial](https://markdown.es/)
+- Documentacion Oficial: [Enlace a la documentacion](https://www.markdownguide.org/getting-started/)
